@@ -7,6 +7,12 @@
 
 A simple, efficient Go internationalization (i18n) library with 0-based indexing and file-based dictionaries.
 
+## Installation
+
+```bash
+go get github.com/nyxstack/i18n
+```
+
 ## Quick Start
 
 ### 1. Write Code with i18n Functions
