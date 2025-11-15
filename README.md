@@ -1,6 +1,4 @@
-# Nyx i18n
-
-# i18n - Go Internationalization Library
+# Nyx i18n - Go Internationalization Library
 
 [![Go Version](https://img.shields.io/badge/go-1.21+-blue.svg)](https://golang.org/dl/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
